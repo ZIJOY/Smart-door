@@ -1,0 +1,2 @@
+# Smart-door
+# WAP for Smart Door * password = "open@", fav_color='balck' * take door password from user * check and open door if password is correct, otherwise say Wrong Password Try again, take input again, check again * maximum try is 3 times, then ask for security question * the take users answer, validate if security answer is correct then help user to change the password. otherwise lock the door
